@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="313px" height="313px" viewBox="0 0 313 313" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L305 0L305 305L0 305L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Random-Fandom-Logo---Round" transform="translate(4 4)">
+    <path d="M0 0L305 0L305 305L0 305L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <g id="Mask-group" transform="translate(2.5 2.5)">
+        <path d="M0 150C0 67.213 67.213 0 150 0C232.787 0 300 67.213 300 150C300 232.787 232.787 300 150 300C67.213 300 0 232.787 0 150L0 150L0 150Z" id="Shape" fill="#000032" fill-rule="evenodd" stroke="none" />
+        <path d="M15 150C15 75.491 75.491 15 150 15C224.509 15 285 75.491 285 150C285 224.509 224.509 285 150 285C75.491 285 15 224.509 15 150L15 150L15 150Z" id="Shape#1" fill="none" fill-rule="evenodd" stroke="#FFB600" stroke-width="8" stroke-linecap="square" />
+        <path d="M150 50L150 245" id="Line" fill="none" fill-rule="evenodd" stroke="#FFB600" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M150 50L210 50" id="Line#1" fill="none" fill-rule="evenodd" stroke="#FFB600" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M150 150L200 150" id="Line#2" fill="none" fill-rule="evenodd" stroke="#FFB600" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M150 50L80 100" id="Line#3" fill="none" fill-rule="evenodd" stroke="#FFB600" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M80 100L150 150" id="Line#4" fill="none" fill-rule="evenodd" stroke="#FFB600" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M150 150L80 240" id="Line#5" fill="none" fill-rule="evenodd" stroke="#FFB600" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+  </g>
+</svg>
