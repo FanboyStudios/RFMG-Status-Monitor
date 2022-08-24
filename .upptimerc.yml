@@ -17,6 +17,10 @@ sites:
     url: https://rcerc.org
   - name: WBC
     url: https://wadleybaptistchurch.cf
+  - name: Kekkocraft
+    url: https://kekkocraft.ga
+  - name: Kekkocraft Me
+    url: https://kekkocraft.ga/me
     
 assignees: # Users to assign downtime issues (optional)
   - FanboyStudios
