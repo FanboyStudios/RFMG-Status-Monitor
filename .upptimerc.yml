@@ -26,7 +26,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /RFMG-Status-Monitor
   cname: status.randomfandom.cf
-  theme: night
+  theme: ocean
   logoUrl: https://raw.githubusercontent.com/FanboyStudios/RFMG-Status-Monitor/master/assets/Random%20Fandom%20Logo%20-%20Round.svg
   name: Random Fandom Media Group
   introTitle: "**Random Fandom Media Group - Status Monitor**"
