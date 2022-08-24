@@ -1,26 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: FanboyStudios # Your GitHub organization or username, where this repository lives
+repo: RFMG-Status-Monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Random Fandom
+    url: https://randomfandom.cf
+  - name: Random Fandom Forum
+    url: https://forum.randomfandom.cf
+  - name: Random Fandom Profiles
+    url: https:/randomfandom.cf/RFMG
+  - name: The Creators Advertiser Consumers Association
+    url: https://caca.randomfandom.cf
+  - name: The No Pay To Win Coalition
+    url: https://nop2wcoalition.ga
+  - name: RCERC
+    url: https://rcerc.org
+  - name: WBC
+    url: https://wadleybaptistchurch.cf
+    
+assignees: # Users to assign downtime issues (optional)
+  - FanboyStudios
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # baseUrl: /RFMG-Status-Monitor
+  cname: status.randomfandom.cf
+  theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Random Fandom Media Group
+  introTitle: "**Random Fandom Media Group - Status Monitor**"
+  introMessage: This status page lists services maintained by Random Fandom Media Group, as well as client services.
   navbar:
     - title: Status
       href: /
