@@ -4,19 +4,19 @@
     "url": "https://randomfandom.cf",
     "icon": "https://favicons.githubusercontent.com/randomfandom.cf",
     "slug": "random-fandom",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1210,
-    "timeDay": 1210,
-    "timeWeek": 1210,
-    "timeMonth": 1210,
-    "timeYear": 1210,
+    "status": "up",
+    "uptime": "98.89%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
+    "time": 1238,
+    "timeDay": 1238,
+    "timeWeek": 1238,
+    "timeMonth": 1238,
+    "timeYear": 1238,
     "dailyMinutesDown": {
-      "2022-08-24": 0
+      "2022-08-24": 11
     }
   },
   {
