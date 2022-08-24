@@ -27,7 +27,7 @@ status-website:
   # baseUrl: /RFMG-Status-Monitor
   cname: status.randomfandom.cf
   theme: night
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/FanboyStudios/RFMG-Status-Monitor/master/assets/Random%20Fandom%20Logo%20-%20Round.svg
   name: Random Fandom Media Group
   introTitle: "**Random Fandom Media Group - Status Monitor**"
   introMessage: This status page lists services maintained by Random Fandom Media Group, as well as client services.
