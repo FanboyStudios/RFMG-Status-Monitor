@@ -4,9 +4,9 @@
     "url": "https://randomfandom.cf",
     "icon": "https://icons.duckduckgo.com/ip3/randomfandom.cf.ico",
     "slug": "random-fandom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 461,
     "timeYear": 522,
     "dailyMinutesDown": {
+      "2022-10-19": 0,
       "2022-08-24": 11
     }
   },
@@ -44,9 +45,9 @@
     "url": "https:/randomfandom.cf/RFMG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "random-fandom-profiles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,16 +56,18 @@
     "timeWeek": 39,
     "timeMonth": 109,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-19": 0
+    }
   },
   {
     "name": "The Creators Advertiser Consumers Association",
     "url": "https://caca.randomfandom.cf",
     "icon": "https://icons.duckduckgo.com/ip3/caca.randomfandom.cf.ico",
     "slug": "the-creators-advertiser-consumers-association",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +76,9 @@
     "timeWeek": 258,
     "timeMonth": 586,
     "timeYear": 518,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-19": 0
+    }
   },
   {
     "name": "The No Pay To Win Coalition",
