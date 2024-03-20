@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: FanboyStudios # Your GitHub organization or username, where this repository lives
+repo: RFMG-Status-Monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Random Fandom
+    url: https://rfmg.top
+  - name: Random Fandom Forum
+    url: https://forum.rfmg.top
+  - name: Random Fandom Profiles
+    url: https://rfmg.top/RFMG
+  - name: Random Fandom Shop
+    url: https://shop.rfmg.top
+  - name: RFMG Search
+    url: http://search.rfmg.top:8880
+  - name: The Advertiser Creators Consumers Association
+    url: https://acca.rfmg.top
+  - name: The No Pay To Win Coalition
+    url: https://nop2wc.rfmg.top
+  - name: RCERC
+    url: https://rcerc.org
+  - name: RCERC Forum
+    url: https://forum.rcerc.org
+  - name: WBC
+    url: https://wadleybaptistchurch.cf
+    
+assignees: # Users to assign downtime issues (optional)
+  - FanboyStudios
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # baseUrl: /RFMG-Status-Monitor
+  cname: status.rfmg.top
+  theme: ocean
+  logoUrl: https://raw.githubusercontent.com/FanboyStudios/RFMG-Status-Monitor/master/assets/Random%20Fandom%20Logo%20-%20Round.svg
+  name: Random Fandom Media Group
+  introTitle: "**Random Fandom Media Group - Status Monitor**"
+  introMessage: This status page lists services maintained by Random Fandom Media Group, as well as client services.
   navbar:
     - title: Status
       href: /
