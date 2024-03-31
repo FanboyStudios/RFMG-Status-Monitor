@@ -76,18 +76,20 @@
     "url": "http://search.rfmg.top:8880",
     "icon": "https://icons.duckduckgo.com/ip3/search.rfmg.top.ico",
     "slug": "rfmg-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 331,
-    "timeWeek": 261,
-    "timeMonth": 280,
-    "timeYear": 280,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 294,
+    "timeWeek": 260,
+    "timeMonth": 278,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2024-03-31": 0
+    }
   },
   {
     "name": "The Advertiser Creators Consumers Association",
@@ -106,7 +108,7 @@
     "timeMonth": 323,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-03-31": 35,
+      "2024-03-31": 795,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -155,7 +157,7 @@
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-03-31": 35,
+      "2024-03-31": 795,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -186,7 +188,7 @@
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-03-31": 35,
+      "2024-03-31": 795,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
@@ -217,7 +219,7 @@
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-03-31": 35,
+      "2024-03-31": 795,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
