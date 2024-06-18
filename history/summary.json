@@ -6,9 +6,9 @@
     "slug": "random-fandom",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "26.96%",
-    "uptimeWeek": "89.57%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "26.41%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.19%",
     "time": 383,
     "timeDay": 413,
@@ -16,7 +16,7 @@
     "timeMonth": 371,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2024-06-18": 1052
+      "2024-06-18": 1060
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "random-fandom-forum",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "26.96%",
-    "uptimeWeek": "89.57%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "26.41%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.19%",
     "time": 412,
     "timeDay": 395,
@@ -36,7 +36,7 @@
     "timeMonth": 383,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2024-06-18": 1052
+      "2024-06-18": 1060
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "random-fandom-profiles",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "26.96%",
-    "uptimeWeek": "89.57%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "26.41%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.19%",
     "time": 77,
     "timeDay": 101,
@@ -56,7 +56,7 @@
     "timeMonth": 76,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-06-18": 1052
+      "2024-06-18": 1060
     }
   },
   {
@@ -132,7 +132,7 @@
     "timeMonth": 336,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2024-06-18": 1180,
+      "2024-06-18": 1188,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -232,9 +232,9 @@
     "slug": "the-no-pay-to-win-coalition",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "26.97%",
-    "uptimeWeek": "89.57%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "26.41%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.19%",
     "time": 301,
     "timeDay": 241,
@@ -242,7 +242,7 @@
     "timeMonth": 304,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-06-18": 1052
+      "2024-06-18": 1060
     }
   },
   {
@@ -250,17 +250,17 @@
     "url": "https://rcerc.org",
     "icon": "https://icons.duckduckgo.com/ip3/rcerc.org.ico",
     "slug": "rcerc",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.08%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 194,
-    "timeDay": 213,
-    "timeWeek": 196,
-    "timeMonth": 197,
-    "timeYear": 194,
+    "uptimeYear": "0.01%",
+    "time": 193,
+    "timeDay": 195,
+    "timeWeek": 192,
+    "timeMonth": 196,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2024-06-18": 1180,
       "2024-06-17": 1440,
@@ -360,17 +360,17 @@
     "url": "https://forum.rcerc.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.rcerc.org.ico",
     "slug": "rcerc-forum",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.08%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 169,
-    "timeDay": 312,
+    "uptimeYear": "0.01%",
+    "time": 170,
+    "timeDay": 274,
     "timeWeek": 202,
-    "timeMonth": 178,
-    "timeYear": 169,
+    "timeMonth": 179,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2024-06-18": 1180,
       "2024-06-17": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 888,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2024-06-18": 1180,
+      "2024-06-18": 1188,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
