@@ -64,9 +64,9 @@
     "url": "https://shop.rfmg.top",
     "icon": "https://icons.duckduckgo.com/ip3/shop.rfmg.top.ico",
     "slug": "random-fandom-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 463,
     "timeMonth": 423,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   },
   {
     "name": "RFMG Search",
@@ -83,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.rfmg.top.ico",
     "slug": "rfmg-search",
     "status": "down",
-    "uptime": "70.97%",
+    "uptime": "70.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.97%",
+    "uptimeYear": "70.76%",
     "time": 502,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2024-08-27": 38,
+      "2024-08-27": 696,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -164,7 +166,7 @@
     "timeMonth": 352,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-08-27": 38,
+      "2024-08-27": 696,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -364,7 +366,7 @@
     "timeMonth": 189,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-08-27": 38,
+      "2024-08-27": 696,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -544,7 +546,7 @@
     "timeMonth": 179,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-08-27": 38,
+      "2024-08-27": 696,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -724,7 +726,7 @@
     "timeMonth": 569,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-08-27": 38,
+      "2024-08-27": 696,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
