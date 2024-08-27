@@ -64,19 +64,19 @@
     "url": "https://shop.rfmg.top",
     "icon": "https://icons.duckduckgo.com/ip3/shop.rfmg.top.ico",
     "slug": "random-fandom-shop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 622,
-    "timeWeek": 463,
-    "timeMonth": 423,
-    "timeYear": 620,
+    "time": 618,
+    "timeDay": 465,
+    "timeWeek": 443,
+    "timeMonth": 420,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-08-27": 0
+      "2024-08-27": 7
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2024-08-27": 696,
+      "2024-08-27": 702,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -166,7 +166,7 @@
     "timeMonth": 352,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-08-27": 696,
+      "2024-08-27": 702,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -366,7 +366,7 @@
     "timeMonth": 189,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-08-27": 696,
+      "2024-08-27": 702,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -546,7 +546,7 @@
     "timeMonth": 179,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-08-27": 696,
+      "2024-08-27": 702,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -726,7 +726,7 @@
     "timeMonth": 569,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-08-27": 696,
+      "2024-08-27": 702,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
