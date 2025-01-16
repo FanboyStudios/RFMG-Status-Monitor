@@ -36,7 +36,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/FanboyStudios/RFMG-Status-Monitor/master/assets/Random%20Fandom%20Logo%20-%20Round.svg
   name: Random Fandom Media Group
   introTitle: "**Random Fandom Media Group - Status Monitor**"
-  introMessage: This status page lists services maintained by Random Fandom Media Group, as well as client services.
+  introMessage: This status page lists services maintained by Random Fandom Media Group, as well as client services. (I might phase out this status monitor, as it is not working properly anymore. Some sites that currently show as being down are actually working fine.)
   navbar:
     - title: Status
       href: /
