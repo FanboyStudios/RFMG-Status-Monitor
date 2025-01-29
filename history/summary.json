@@ -85,19 +85,19 @@
     "url": "https://shop.rfmg.top",
     "icon": "https://icons.duckduckgo.com/ip3/shop.rfmg.top.ico",
     "slug": "random-fandom-shop",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 542,
-    "timeDay": 280,
-    "timeWeek": 245,
+    "time": 541,
+    "timeDay": 257,
+    "timeWeek": 243,
     "timeMonth": 247,
-    "timeYear": 542,
+    "timeYear": 541,
     "dailyMinutesDown": {
-      "2025-01-29": 0,
+      "2025-01-29": 19,
       "2024-10-01": 33
     }
   },
@@ -118,7 +118,7 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2025-01-29": 513,
+      "2025-01-29": 532,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -342,7 +342,7 @@
     "timeMonth": 261,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-01-29": 513,
+      "2025-01-29": 532,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -704,7 +704,7 @@
     "timeMonth": 182,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-01-29": 513,
+      "2025-01-29": 532,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1039,7 +1039,7 @@
     "timeMonth": 172,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-01-29": 513,
+      "2025-01-29": 532,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1374,7 +1374,7 @@
     "timeMonth": 359,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2025-01-29": 513,
+      "2025-01-29": 532,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
