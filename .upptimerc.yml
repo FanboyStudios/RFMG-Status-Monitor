@@ -23,12 +23,6 @@ sites:
     maxResponseTime: 2500
   - name: RFMG Shop
     url: https:/shop.rfmg.top/
-  - name: The Advertisers, Creators, and Consumers Association
-    url: https://acca.rfmg.top/
-    expectedStatusCodes:
-      - 403
-      - 200
-    maxResponseTime: 2500
   - name: The No Pay To Win Coalition
     url: https://nop2wc.rfmg.top/
     expectedStatusCodes:
