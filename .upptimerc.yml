@@ -60,7 +60,7 @@ status-website:
   faviconSvg: https://raw.githubusercontent.com/FanboyStudios/RFMG-Status-Monitor/refs/heads/master/assets/RFMGNewLogoCopy-Vectorizer.svg
   name: RFMG Status Monitor
   introTitle: "**RFMG Status Monitor**"
-  introMessage: This page monitors services hosted by RFMG. Since it uses GitHub Actions and is hosted on GitHub Pages; it runs separately from RFMG Infrastructure. The response times displayed may or may not be accurate, and may vary from your experience using RFMG services; due to your internet speeds, current server load (for both RFMG and GitHub servers), third party services (such as Cloudflare), etc. Typical outages for RFMG services will usually result in an Error Code 526; meaning the expired SSL certificates will need to be manually renewed (which occurs about every 3-4 months).   
+  introMessage: This page monitors services hosted by RFMG. Since it uses GitHub Actions and is hosted on GitHub Pages; it runs separately from RFMG Infrastructure. The response times displayed may or may not be accurate, and can vary from your experience using RFMG services. Response times can be affected by multiple external factors including: internet speeds, current server load (for both RFMG and GitHub servers), third party services (such as Cloudflare), etc. Typical outages for RFMG services will usually result in an Error Code 526; meaning the expired SSL certificates will need to be manually renewed (which occurs about every 3-4 months).   
   navbar:
     - title: Status
       href: /
