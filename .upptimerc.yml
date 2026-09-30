@@ -15,7 +15,6 @@ sites:
     maxResponseTime: 3000
   - name: RFMG Profiles
     url: https://rfmg.top/RFMG
-    maxResponseTime: 1500
     expectedStatusCodes:
       - 403
     maxResponseTime: 1500
