@@ -25,6 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.rfmg.top
   # baseUrl: /your-repo-name
+  themeUrl: https://status.rfmg.top/rfmg-theme.css
   logoUrl: https://raw.githubusercontent.com/FanboyStudios/RFMG-Status-Monitor/refs/heads/master/assets/RFMGNewLogoCopy-Vectorizer.svg
   faviconSvg: https://raw.githubusercontent.com/FanboyStudios/RFMG-Status-Monitor/refs/heads/master/assets/RFMGNewLogoCopy-Vectorizer.svg
   name: RFMG Status Monitor
@@ -35,7 +36,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  themeUrl: https://raw.githubusercontent.com/FanboyStudios/RFMG-Status-Monitor/refs/heads/master/assets/rfmg-theme.css
+  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
