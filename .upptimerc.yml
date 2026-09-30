@@ -29,6 +29,12 @@ sites:
       - 403
       - 200
     maxResponseTime: 2500
+  - name: The Advertisers, Creators, and Consumers Association
+    url: https://acca.rfmg.top/
+    expectedStatusCodes:
+      - 403
+      - 200
+    maxResponseTime: 2500
   - name: RCERC
     url: https://rcerc.org/
     expectedStatusCodes:
