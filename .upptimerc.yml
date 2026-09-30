@@ -7,39 +7,46 @@ sites:
     url: https://rfmg.top
     expectedStatusCodes:
       - 403
-    maxResponseTime: 1500
+      - 200
+    maxResponseTime: 2500
   - name: RFMG Forum
     url: https://forum.rfmg.top
     expectedStatusCodes:
       - 403
-    maxResponseTime: 3000
+      - 200
+    maxResponseTime: 5000
   - name: RFMG Profiles
     url: https://rfmg.top/RFMG
     expectedStatusCodes:
       - 403
-    maxResponseTime: 1500
+      - 200
+    maxResponseTime: 2500
   - name: RFMG Shop
     url: https:/shop.rfmg.top/
   - name: The Advertisers, Creators, and Consumers Association
     url: https://acca.rfmg.top/
     expectedStatusCodes:
       - 403
-    maxResponseTime: 1500
+      - 200
+    maxResponseTime: 2500
   - name: The No Pay To Win Coalition
     url: https://nop2wc.rfmg.top/
     expectedStatusCodes:
       - 403
-    maxResponseTime: 1500
+      - 200
+    maxResponseTime: 2500
   - name: RCERC
     url: https://rcerc.org/
     expectedStatusCodes:
       - 403
-    maxResponseTime: 1500
+      - 200
+    maxResponseTime: 2500
   - name: RCERC Forum
     url: https://forum.rcerc.org/
     expectedStatusCodes:
       - 403
-    maxResponseTime: 1500
+      - 200
+    maxResponseTime: 5000
 
 delay: 5000 # 5 seconds
 
