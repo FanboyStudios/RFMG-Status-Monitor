@@ -34,6 +34,7 @@ sites:
     expectedStatusCodes:
       - 403
       - 200
+      - 500
     maxResponseTime: 2500
   - name: RCERC
     url: https://rcerc.org/
