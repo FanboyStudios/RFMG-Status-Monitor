@@ -4,19 +4,20 @@
     "url": "https://rfmg.top",
     "icon": "https://icons.duckduckgo.com/ip3/rfmg.top.ico",
     "slug": "rfmg",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 340,
-    "timeDay": 485,
-    "timeWeek": 309,
-    "timeMonth": 296,
-    "timeYear": 340,
+    "uptimeYear": "99.97%",
+    "time": 338,
+    "timeDay": 329,
+    "timeWeek": 292,
+    "timeMonth": 292,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2026-09-30": 17
+      "2026-09-30": 17,
+      "2026-11-22": 2
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://forum.rfmg.top",
     "icon": "https://icons.duckduckgo.com/ip3/forum.rfmg.top.ico",
     "slug": "rfmg-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 743,
-    "timeDay": 713,
-    "timeWeek": 567,
-    "timeMonth": 666,
-    "timeYear": 743,
+    "time": 735,
+    "timeDay": 443,
+    "timeWeek": 518,
+    "timeMonth": 651,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2026-09-30": 17
+      "2026-09-30": 17,
+      "2026-11-22": 1
     }
   },
   {
@@ -44,19 +46,20 @@
     "url": "https://rfmg.top/RFMG",
     "icon": "https://icons.duckduckgo.com/ip3/rfmg.top.ico",
     "slug": "rfmg-profiles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 474,
-    "timeDay": 336,
-    "timeWeek": 330,
-    "timeMonth": 362,
-    "timeYear": 474,
+    "time": 469,
+    "timeDay": 252,
+    "timeWeek": 309,
+    "timeMonth": 356,
+    "timeYear": 469,
     "dailyMinutesDown": {
-      "2026-09-30": 17
+      "2026-09-30": 17,
+      "2026-11-22": 1
     }
   },
   {
@@ -82,19 +85,20 @@
     "url": "https://nop2wc.rfmg.top/",
     "icon": "https://icons.duckduckgo.com/ip3/nop2wc.rfmg.top.ico",
     "slug": "the-no-pay-to-win-coalition",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 300,
-    "timeDay": 251,
-    "timeWeek": 259,
-    "timeMonth": 265,
-    "timeYear": 300,
+    "time": 298,
+    "timeDay": 218,
+    "timeWeek": 250,
+    "timeMonth": 263,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2026-09-30": 17
+      "2026-09-30": 17,
+      "2026-11-22": 1
     }
   },
   {
@@ -102,20 +106,21 @@
     "url": "https://acca.rfmg.top/",
     "icon": "https://icons.duckduckgo.com/ip3/acca.rfmg.top.ico",
     "slug": "the-advertisers-creators-and-consumers-association",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.66%",
-    "time": 300,
-    "timeDay": 273,
-    "timeWeek": 325,
-    "timeMonth": 281,
-    "timeYear": 300,
+    "uptimeYear": "98.68%",
+    "time": 298,
+    "timeDay": 226,
+    "timeWeek": 307,
+    "timeMonth": 278,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2026-10-01": 851,
-      "2026-09-30": 156
+      "2026-09-30": 156,
+      "2026-11-22": 0
     }
   },
   {
